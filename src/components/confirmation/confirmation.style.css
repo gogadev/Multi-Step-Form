@@ -1,0 +1,14 @@
+.list {
+  background: rgba(0, 0, 0, 0.3);
+  font-size: 1rem;
+  color: grey;
+  list-style-type: none;
+  margin: 1rem auto;
+  padding: 0.2rem 0.5rem;
+}
+
+.list li {
+  background: rgba(0, 0, 0, 0.3);
+  margin: 0.5rem auto;
+  padding: 0.2rem 0.5rem;
+}

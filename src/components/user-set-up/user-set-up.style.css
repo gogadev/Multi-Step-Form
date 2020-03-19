@@ -1,0 +1,11 @@
+.container {
+  width: 65vw;
+  justify-content: center;
+  justify-items: center;
+  display: grid;
+  margin: 6.5rem auto;
+  background: rgba(0, 0, 0, 0.1);
+  background-blend-mode: lighten;
+  padding: 0.5rem 1rem;
+  outline: 1px solid grey;
+}
